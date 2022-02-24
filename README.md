@@ -51,8 +51,8 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 ### Table of Contents:
 
 | Title |  link  |
-|:-:|:-:|:-:|
-| Create a Reading Notes Repo  |  [Link](https://github.com/Farraj007/reading-notes) |
+|:-:|:-:|
+| Create a Reading Notes Repo  |  [My Repo](https://github.com/Farraj007/reading-notes) |
 |   |   |
 |   |   |
 |   |   |
