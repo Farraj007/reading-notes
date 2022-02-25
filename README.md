@@ -53,7 +53,7 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 | Title |  link  |
 |:-:|:-:|
 | Create a Reading Notes Repo  |  [My Repo](https://github.com/Farraj007/reading-notes) |
-|   |   |
+|  Practice in the Terminal |  [Terminal Commands](ReadingNotes401PracticeTerminalmd)|
 |   |   |
 |   |   |
 |   |   |
