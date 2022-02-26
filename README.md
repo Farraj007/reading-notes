@@ -35,7 +35,7 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 
 -------------------------------------------------
 ## Code 401 - Advanced Software Development
-### Table of Contents:
+### Prep Tasks Table:
 
 | Title |  link  |
 |:-:|:-:|
@@ -43,5 +43,10 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Practice in the Terminal |  [Terminal Commands](./ReadingNotes401/PracticeTerminal.md)|
 | SQL Practice  | [My SQL](./ReadingNotes401/SQLpractice.md)  |
 | The Growth Mindset  | [The Growth Mindset](./ReadingNotes401/GrowthMindset.md) |
-|   |   |
-|   |   |
+
+### Readings Table of Contents:
+
+| Title |  link  |
+|:-:|:-:|
+|  Read: Class 01 |  [Read01](./ReadingNotes401/Read01.md) |
+
