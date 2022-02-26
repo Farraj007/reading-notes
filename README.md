@@ -40,8 +40,8 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 | Title |  link  |
 |:-:|:-:|
 | Create a Reading Notes Repo  |  [My Repo](https://github.com/Farraj007/reading-notes) |
-|  Practice in the Terminal |  [Terminal Commands](ReadingNotes401/PracticeTerminalmd)|
-| SQL Practice  | [My SQL](ReadingNotes401/SQLpractice.md)  |
-|   |   |
+|  Practice in the Terminal |  [Terminal Commands](./ReadingNotes401/PracticeTerminal.md)|
+| SQL Practice  | [My SQL](./ReadingNotes401/SQLpractice.md)  |
+| The Growth Mindset  | [The Growth Mindset](./ReadingNotes401/GrowthMindset.md) |
 |   |   |
 |   |   |
