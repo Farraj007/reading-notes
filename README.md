@@ -16,10 +16,6 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 | Title |  link  |
 |:-:|:-:|
 |   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
 
 -------------------------------------------------
 ## Code 201 - Foundations of Software Development
@@ -28,11 +24,6 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 | Title |  link  |
 |:-:|:-:|
 |   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-
 
 -------------------------------------------------
 ## Code 301 - Intermediate Software Development
@@ -40,10 +31,6 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 
 | Title |  link  |
 |:-:|:-:|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
 |   |   |
 
 -------------------------------------------------
@@ -53,8 +40,8 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 | Title |  link  |
 |:-:|:-:|
 | Create a Reading Notes Repo  |  [My Repo](https://github.com/Farraj007/reading-notes) |
-|  Practice in the Terminal |  [Terminal Commands](ReadingNotes401PracticeTerminalmd)|
-|   |   |
+|  Practice in the Terminal |  [Terminal Commands](ReadingNotes401/PracticeTerminalmd)|
+| SQL Practice  | [My SQL](ReadingNotes401/SQLpractice.md)  |
 |   |   |
 |   |   |
 |   |   |
