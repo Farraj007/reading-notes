@@ -1,3 +1,4 @@
+[:arrow_backward:](../README.md)
 # SQL Queries
 
 **SQL stands for *Structured Query Language***  
