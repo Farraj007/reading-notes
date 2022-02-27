@@ -49,16 +49,24 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 | Title |  link  |
 |:-:|:-:|
 |  Read: Class 01 |  [Read01](./ReadingNotes401/Read01.md) |
+|  Read: Class 02 |  [Read02](./ReadingNotes401/Read02.md) |
 
 ### Code Challenge Table of Contents:
 
 | Title |  link  |
 |:-:|:-:|
-|  Code Challenge: Class 01 |  [Read01](./ReadingNotes401/Read01.md) |
+|  Code Challenge: Class 01 |  [Challenge01](./ReadingNotes401/Read01.md) |
 
 ### Labs  Table of Contents:
 
 | Title |  link  |
 |:-:|:-:|
 |  Lab: Class 1 - Intro to Python |  [Lab01](../snakes-cafe/snakes-cafe/README.md) |
+
+### Learning Journal  Table of Contents:
+
+| Title |  link  |
+|:-:|:-:|
+|   |   |
+
 
