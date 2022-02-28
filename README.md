@@ -43,6 +43,7 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Practice in the Terminal |  [Terminal Commands](./ReadingNotes401/PracticeTerminal.md)|
 | SQL Practice  | [My SQL](./ReadingNotes401/SQLpractice.md)  |
 | The Growth Mindset  | [The Growth Mindset](./ReadingNotes401/GrowthMindset.md) |
+| Python Core Course:SoloLearn  | [Certificate](./Assets/cert-25073071-1073.png) |
 
 ### Readings Table of Contents:
 
@@ -55,7 +56,7 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 
 | Title |  link  |
 |:-:|:-:|
-|  Code Challenge: Class 01 |  [Challenge01]() |
+|  Code Challenge: Class 01 |  [Challenge01](https://github.com/Farraj007/data-structures-and-algorithms/blob/array-reverse/Challenge01/README.md) |
 
 ### Labs  Table of Contents:
 

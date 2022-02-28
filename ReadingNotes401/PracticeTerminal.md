@@ -1,4 +1,4 @@
-[:arrow_backward:](../README.md)
+[Main Page](../README.md)
 # Reading Prework - The Command Line  
 This is a summary of a beginners guide to Linux command line (BASH). 
 

@@ -1,4 +1,4 @@
-[:arrow_backward:](../README.md)
+[Main Page](../README.md)
 # SQL Queries
 
 **SQL stands for *Structured Query Language***  
