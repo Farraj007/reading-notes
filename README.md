@@ -55,7 +55,7 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 
 | Title |  link  |
 |:-:|:-:|
-|  Code Challenge: Class 01 |  [Challenge01](./ReadingNotes401/Read01.md) |
+|  Code Challenge: Class 01 |  [Challenge01]() |
 
 ### Labs  Table of Contents:
 
@@ -68,5 +68,3 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 | Title |  link  |
 |:-:|:-:|
 |   |   |
-
-
