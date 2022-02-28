@@ -1,4 +1,4 @@
-[:arrow_backward:](../README.md)
+[Main Page](../README.md)
 ## Pain and Suffering
 [Pain vs Suffer](https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering)  
 

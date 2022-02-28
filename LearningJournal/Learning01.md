@@ -1,3 +1,4 @@
+[Main Page](../README.md)
 # Learning Journal: Class 01
 
 In our first class we learned about the basics of python such as naming declaring a variables,how to wrtie functions and call them, using strings with variables in different ways. These was a revision for our SoloLearn Prep task . 
