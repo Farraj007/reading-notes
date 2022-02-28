@@ -56,7 +56,7 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 
 | Title |  link  |
 |:-:|:-:|
-|  Code Challenge: Class 01 |  [Challenge01](https://github.com/Farraj007/data-structures-and-algorithms) |
+|  Code Challenge: Class 01 |  [Challenge01](https://github.com/Farraj007/data-structures-and-algorithms/blob/array-reverse/Challenge01/README.md) |
 
 ### Labs  Table of Contents:
 
