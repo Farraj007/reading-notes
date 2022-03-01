@@ -63,6 +63,7 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 | Title |  link  |
 |:-:|:-:|
 |  Lab: Class 1 - Intro to Python |  [Lab01](https://github.com/Farraj007/snakes-cafe/tree/master/snakes-cafe) |
+|  Lab: Class 2 -  Modules, Containers, and Testing |  [Lab02](https://github.com/Farraj007/math-series/tree/main) |
 
 ### Learning Journal  Table of Contents:
 
