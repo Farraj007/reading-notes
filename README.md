@@ -70,3 +70,4 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 | Title |  link  |
 |:-:|:-:|
 |  Learning Journal: Class 01 |  [Learning01](./LearningJournal/Learning01.md) |
+|  Learning Journal: Class 02 |  [Learning02](./LearningJournal/Learning02.md) |
