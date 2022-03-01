@@ -34,7 +34,7 @@ Essentially, if__name__==“__main__” allows us to modularize or run programs 
 
 ## Recursion
 
-I had done some light reading on this when it was mentioned in class, and I read that recursion is when a function calls itself. I wasn't sure conceptually what it meant and I am still trying to wrap my head around it a bit.
+Recursion is a process in which a function calls itself as a subroutine
 
 This code was the easiest for me to understand:
 approach(2) – Recursive adding 
@@ -45,6 +45,5 @@ f(n) = 1                  n=1
 f(n) = n + f(n-1)    n>1
 ```
 
-It seems in most of the cases I've been looking at that a base case is used and when the function refers to itself it moves itself towards the base case.
 
-Overall, one of the main reasons recursion is used is for simplicity and readability of code.
+* one of the main reasons recursion is used is for simplicity and readability of code.
