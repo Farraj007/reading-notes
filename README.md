@@ -51,6 +51,7 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |:-:|:-:|
 |  Read: Class 01 |  [Read01](./ReadingNotes401/Read01.md) |
 |  Read: Class 02 |  [Read02](./ReadingNotes401/Read02.md) |
+|  Read: Class 03 |  [Read03](./ReadingNotes401/Read03.md) |
 
 ### Code Challenge Table of Contents:
 
