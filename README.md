@@ -52,12 +52,14 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Read: Class 01 |  [Read01](./ReadingNotes401/Read01.md) |
 |  Read: Class 02 |  [Read02](./ReadingNotes401/Read02.md) |
 |  Read: Class 03 |  [Read03](./ReadingNotes401/Read03.md) |
+|  Read: Class 04 |  [Read04](./ReadingNotes401/Read04.md) |
 
 ### Code Challenge Table of Contents:
 
 | Title |  link  |
 |:-:|:-:|
 |  Code Challenge: Class 01 |  [Challenge01](https://github.com/Farraj007/data-structures-and-algorithms/blob/array-reverse/Challenge01/README.md) |
+|  Code Challenge: Class 02 |  [Challenge02](https://github.com/Farraj007/data-structures-and-algorithms/tree/main/Challenge02) |
 
 ### Labs  Table of Contents:
 
