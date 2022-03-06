@@ -25,7 +25,7 @@ Objects are encapsulation of variables and functions into a single entity.
     3- Accessing a function we use the dot notation as well.  
 
 ### Thinking Recursively (Optional: "Naive Recursion is Naive" section and beyond)  
-[Link to Article](https://realpython.com/python-thinking-recursively/)  
+[Python Thinking Recursively](https://realpython.com/python-thinking-recursively/)  
 1. Dear Pythonic Santa Clause...
     - An explicit loop, loop construction is called an iterative algorithm.
     - Loops one way until its finished.  

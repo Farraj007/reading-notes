@@ -63,7 +63,7 @@
 
 ### Exceptions in Python
 
-- [Link to Article](https://realpython.com/python-exceptions/)
+- [python-exceptions](https://realpython.com/python-exceptions/)
 
 1. Exceptions versus Syntax Errors  
    Syntax errors occur when the parser detects an incorrect statement. An exception error occurs when syntactically correct Python code results in an error.
