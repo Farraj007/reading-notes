@@ -60,13 +60,18 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |:-:|:-:|
 |  Code Challenge: Class 01 |  [Challenge01](https://github.com/Farraj007/data-structures-and-algorithms/blob/array-reverse/Challenge01/README.md) |
 |  Code Challenge: Class 02 |  [Challenge02](https://github.com/Farraj007/data-structures-and-algorithms/tree/main/Challenge02) |
+|  Code Challenge: Class 03 |  [Challenge03](https://github.com/Farraj007/data-structures-and-algorithms/tree/array-binary-search/Challenge03) |
+|  Code Challenge: Class 04 |  [Challenge04]() |
+
 
 ### Labs  Table of Contents:
 
 | Title |  link  |
 |:-:|:-:|
-|  Lab: Class 1 - Intro to Python |  [Lab01](https://github.com/Farraj007/snakes-cafe/tree/master/snakes-cafe) |
+|  Lab: Class 1 -  Intro to Python |  [Lab01](https://github.com/Farraj007/snakes-cafe/tree/master/snakes-cafe) |
 |  Lab: Class 2 -  Modules, Containers, and Testing |  [Lab02](https://github.com/Farraj007/math-series/tree/main) |
+|  Lab: Class 3 -  File IO and Exceptions |  [Lab03](https://github.com/Farraj007/madlib-cli/tree/Madlib) |
+|  Lab: Class 4 -  File IO and Exceptions |  [Lab04]() |
 
 ### Learning Journal  Table of Contents:
 
@@ -75,3 +80,4 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Learning Journal: Class 01 |  [Learning01](./LearningJournal/Learning01.md) |
 |  Learning Journal: Class 02 |  [Learning02](./LearningJournal/Learning02.md) |
 |  Learning Journal: Class 03 |  [Learning03](./LearningJournal/Learning03.md) |
+|  Learning Journal: Class 04 |  [Learning04](./LearningJournal/Learning04.md) |
