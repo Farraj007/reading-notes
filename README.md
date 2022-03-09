@@ -53,6 +53,7 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Read: Class 02 |  [Read02](./ReadingNotes401/Read02.md) |
 |  Read: Class 03 |  [Read03](./ReadingNotes401/Read03.md) |
 |  Read: Class 04 |  [Read04](./ReadingNotes401/Read04.md) |
+|  Read: Class 05 |  [Read05](./ReadingNotes401/Read05.md) |
 
 ### Code Challenge Table of Contents:
 
@@ -71,7 +72,7 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Lab: Class 1 -  Intro to Python |  [Lab01](https://github.com/Farraj007/snakes-cafe/tree/master/snakes-cafe) |
 |  Lab: Class 2 -  Modules, Containers, and Testing |  [Lab02](https://github.com/Farraj007/math-series/tree/main) |
 |  Lab: Class 3 -  File IO and Exceptions |  [Lab03](https://github.com/Farraj007/madlib-cli/tree/Madlib) |
-|  Lab: Class 4 -  File IO and Exceptions |  [Lab04]() |
+|  Lab: Class 4 -  File IO and Exceptions |  [Lab04](https://github.com/Farraj007/pythonic-garage-band/tree/band) |
 
 ### Learning Journal  Table of Contents:
 
