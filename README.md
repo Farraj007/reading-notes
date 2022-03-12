@@ -54,6 +54,7 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Read: Class 03 |  [Read03](./ReadingNotes401/Read03.md) |
 |  Read: Class 04 |  [Read04](./ReadingNotes401/Read04.md) |
 |  Read: Class 05 |  [Read05](./ReadingNotes401/Read05.md) |
+|  Read: Class 06 |  [Read06](./ReadingNotes401/Read06.md) |
 
 ### Code Challenge Table of Contents:
 
@@ -63,6 +64,9 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Code Challenge: Class 02 |  [Challenge02](https://github.com/Farraj007/data-structures-and-algorithms/tree/main/Challenge02) |
 |  Code Challenge: Class 03 |  [Challenge03](https://github.com/Farraj007/data-structures-and-algorithms/tree/array-binary-search/Challenge03) |
 |  Code Challenge: Class 04 |  [Challenge04]() |
+|  Code Challenge: Class 05 |  [Challenge05:Implementation: Singly Linked Lists](https://github.com/Farraj007/data-structures-and-algorithms/tree/linked-list/linked-list) |
+
+
 
 
 ### Labs  Table of Contents:
@@ -82,3 +86,5 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Learning Journal: Class 02 |  [Learning02](./LearningJournal/Learning02.md) |
 |  Learning Journal: Class 03 |  [Learning03](./LearningJournal/Learning03.md) |
 |  Learning Journal: Class 04 |  [Learning04](./LearningJournal/Learning04.md) |
+|  Learning Journal: Class 05 |  [Learning05](./LearningJournal/Learning05.md) |
+|  Learning Journal: Class 06 |  [Learning04](./LearningJournal/Learning06.md) |
