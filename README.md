@@ -78,6 +78,9 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Lab: Class 2 -  Modules, Containers, and Testing |  [Lab02](https://github.com/Farraj007/math-series/tree/main) |
 |  Lab: Class 3 -  File IO and Exceptions |  [Lab03](https://github.com/Farraj007/madlib-cli/tree/Madlib) |
 |  Lab: Class 4 -  Garage Band with OOP |  [Lab04](https://github.com/Farraj007/pythonic-garage-band/tree/band) |
+|  Lab: Class 5 -  Linked List |  [Lab05](https://github.com/Farraj007/data-structures-and-algorithms/tree/linked-list/linked-list) |
+|  Lab: Class 6 -  Game of Greed I |  [Lab06](https://github.com/Game-of-Greed-group1/game-of-greed-I) |
+
 
 ### Learning Journal  Table of Contents:
 
