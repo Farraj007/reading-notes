@@ -55,6 +55,7 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Read: Class 04 |  [Read04](./ReadingNotes401/Read04.md) |
 |  Read: Class 05 |  [Read05](./ReadingNotes401/Read05.md) |
 |  Read: Class 06 |  [Read06](./ReadingNotes401/Read06.md) |
+|  Read: Class 07 |  [Read07](./ReadingNotes401/Read07.md) |
 
 ### Code Challenge Table of Contents:
 
@@ -77,6 +78,9 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Lab: Class 2 -  Modules, Containers, and Testing |  [Lab02](https://github.com/Farraj007/math-series/tree/main) |
 |  Lab: Class 3 -  File IO and Exceptions |  [Lab03](https://github.com/Farraj007/madlib-cli/tree/Madlib) |
 |  Lab: Class 4 -  Garage Band with OOP |  [Lab04](https://github.com/Farraj007/pythonic-garage-band/tree/band) |
+|  Lab: Class 5 -  Linked List |  [Lab05](https://github.com/Farraj007/data-structures-and-algorithms/tree/linked-list/linked-list) |
+|  Lab: Class 6 -  Game of Greed I |  [Lab06](https://github.com/Game-of-Greed-group1/game-of-greed-I) |
+
 
 ### Learning Journal  Table of Contents:
 
@@ -87,4 +91,4 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Learning Journal: Class 03 |  [Learning03](./LearningJournal/Learning03.md) |
 |  Learning Journal: Class 04 |  [Learning04](./LearningJournal/Learning04.md) |
 |  Learning Journal: Class 05 |  [Learning05](./LearningJournal/Learning05.md) |
-|  Learning Journal: Class 06 |  [Learning04](./LearningJournal/Learning06.md) |
+|  Learning Journal: Class 06 |  [Learning06](./LearningJournal/Learning06.md) |
