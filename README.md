@@ -88,4 +88,4 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Learning Journal: Class 03 |  [Learning03](./LearningJournal/Learning03.md) |
 |  Learning Journal: Class 04 |  [Learning04](./LearningJournal/Learning04.md) |
 |  Learning Journal: Class 05 |  [Learning05](./LearningJournal/Learning05.md) |
-|  Learning Journal: Class 06 |  [Learning04](./LearningJournal/Learning06.md) |
+|  Learning Journal: Class 06 |  [Learning06](./LearningJournal/Learning06.md) |
