@@ -55,6 +55,7 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Read: Class 04 |  [Read04](./ReadingNotes401/Read04.md) |
 |  Read: Class 05 |  [Read05](./ReadingNotes401/Read05.md) |
 |  Read: Class 06 |  [Read06](./ReadingNotes401/Read06.md) |
+|  Read: Class 07 |  [Read07](./ReadingNotes401/Read07.md) |
 
 ### Code Challenge Table of Contents:
 
