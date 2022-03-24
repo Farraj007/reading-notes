@@ -1,3 +1,3 @@
 [Main Page](../README.md)
 
-# Learning Journal: Class 07
+# Learning Journal: Class 08
