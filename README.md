@@ -60,6 +60,7 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Read: Class 09 |  [Read09](./ReadingNotes401/Read09.md) |
 |  Read: Class 10 |  [Read10](./ReadingNotes401/Read10.md) |
 |  Read: Class 11 |  [Read11](./ReadingNotes401/Read11.md) |
+|  Read: Class 12 |  [Read12](./ReadingNotes401/Read12.md) |
 
 ### Code Challenge Table of Contents:
 
