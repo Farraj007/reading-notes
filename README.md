@@ -61,6 +61,7 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Read: Class 10 |  [Read10](./ReadingNotes401/Read10.md) |
 |  Read: Class 11 |  [Read11](./ReadingNotes401/Read11.md) |
 |  Read: Class 12 |  [Read12](./ReadingNotes401/Read12.md) |
+|  Read: Class 13 |  [Read13](./ReadingNotes401/Read13.md) |
 
 ### Code Challenge Table of Contents:
 
@@ -99,3 +100,8 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Learning Journal: Class 05 |  [Learning05](./LearningJournal/Learning05.md) |
 |  Learning Journal: Class 06 |  [Learning06](./LearningJournal/Learning06.md) |
 |  Learning Journal: Class 07 |  [Learning07](./LearningJournal/Learning07.md) |
+|  Learning Journal: Class 08 |  [Learning08](./LearningJournal/Learning08.md) |
+|  Learning Journal: Class 09 |  [Learning09](./LearningJournal/Learning09.md) |
+|  Learning Journal: Class 10 |  [Learning10](./LearningJournal/Learning10.md) |
+|  Learning Journal: Class 11 |  [Learning11](./LearningJournal/Learning11.md) |
+|  Learning Journal: Class 12 |  [Learning12](./LearningJournal/Learning12.md) |
