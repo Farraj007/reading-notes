@@ -2,7 +2,8 @@
 
 ## Introduction
 
-<p> My name is Barham Farraj and I am 22 years old, I graduated from Al-Balqa'a Applied University-Faculty of Engineering Technology in Mechanical Engineering Major, I live in Jordan-Amman.
+<p> My name is Barham Farraj and I am 22 years old, I graduated from Al-Balqa'a Applied University-Faculty of 
+Engineering Technology in Mechanical Engineering Major, I live in Jordan-Amman.
 I want to be a part of the future, that's why i'm learning Python . </p>
 
 > **Description:**
@@ -66,8 +67,9 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Read: Class 15 |  [Read15](./ReadingNotes401/Read15.md) |
 |  Read: Class 16 |  [Read16](./ReadingNotes401/Read16.md) |
 |  Read: Class 17 |  [Read17](./ReadingNotes401/Read17.md) |
+|  Read: Class 26 |  [Read26](./ReadingNotes401/Read26.md) |
 
-### Code Challenge Table of Contents:
+<!-- ### Code Challenge Table of Contents:
 
 | Title |  link  |
 |:-:|:-:|
@@ -76,10 +78,6 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Code Challenge: Class 03 |  [Challenge03](https://github.com/Farraj007/data-structures-and-algorithms/tree/array-binary-search/Challenge03) |
 |  Code Challenge: Class 04 |  [Challenge04]() |
 |  Code Challenge: Class 05 |  [Challenge05:Implementation: Singly Linked Lists](https://github.com/Farraj007/data-structures-and-algorithms/tree/linked-list/linked-list) |
-
-
-
-
 
 ### Labs  Table of Contents:
 
@@ -91,7 +89,6 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Lab: Class 4 -  Garage Band with OOP |  [Lab04](https://github.com/Farraj007/pythonic-garage-band/tree/band) |
 |  Lab: Class 5 -  Linked List |  [Lab05](https://github.com/Farraj007/data-structures-and-algorithms/tree/linked-list/linked-list) |
 |  Lab: Class 6 -  Game of Greed I |  [Lab06](https://github.com/Game-of-Greed-group1/game-of-greed-I) |
-
 
 ### Learning Journal  Table of Contents:
 
@@ -108,4 +105,4 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Learning Journal: Class 09 |  [Learning09](./LearningJournal/Learning09.md) |
 |  Learning Journal: Class 10 |  [Learning10](./LearningJournal/Learning10.md) |
 |  Learning Journal: Class 11 |  [Learning11](./LearningJournal/Learning11.md) |
-|  Learning Journal: Class 12 |  [Learning12](./LearningJournal/Learning12.md) |
+|  Learning Journal: Class 12 |  [Learning12](./LearningJournal/Learning12.md) | -->
