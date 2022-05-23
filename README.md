@@ -73,6 +73,7 @@ I want to be a part of the future, that's why i'm learning Python . </p>
 |  Read: Class 29 |  [Read29](./ReadingNotes401/Read29.md) |
 |  Read: Class 30 |  [Read30](./ReadingNotes401/Read30.md) |
 |  Read: Class 31 |  [Read31](./ReadingNotes401/Read31.md) |
+|  Read: Class 32 |  [Read32](./ReadingNotes401/Read32.md) |
 
 <!-- ### Code Challenge Table of Contents:
 
